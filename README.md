@@ -1,6 +1,6 @@
 Mars Photos
 ==================================
-![Ejercicio 3.png](..%2F..%2FPictures%2FScreenshots%2FEjercicio%203.png)
+![Ejercicio 3.png](Ejercicio%203.png)
 Mars Photos app is a demo app that shows actual images of Mars' surface. These images are
 real-life photos from Mars captured by NASA's Mars rovers. The data is stored on a Web server
 as a REST web service.
